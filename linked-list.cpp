@@ -126,4 +126,4 @@ void delete_node(isimler **head)
             }
         }
     }
-Konuşma Sonu
+
